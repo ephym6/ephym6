@@ -8,49 +8,51 @@ I’m a second-year Computer Science student actively building a solid foundatio
 
 💡 Technical Proficiencies:
 
-\- Languages: Java (OOP, Spring Boot), Python (Flask, scripting), C++, PHP, Swift, JavaScript (ES6+)
+\- Languages: Java (OOP, Spring Boot), Swift, JavaScript (ES6+), PHP, Python (Flask, scripting), C++
 
 \- Frontend: React.js (with Vite), Tailwind CSS, HTML5/CSS3, basic UI/UX with Figma
 
 \- Backend: Node.js + Express, PHP, REST APIs, server-side validation
 
-\- Databases & Storage: MySQL/MariaDB, Google Sheets API (as dynamic DB)
+\- Databases & Storage: MySQL/MariaDB, Google Sheets API (as dynamic DB), Firebase
 
-\- Mobile Development: Swift (UIKit & SwiftUI), currently exploring iOS app architecture (MVVM)
+\- Mobile Development: Swift (UIKit), currently exploring iOS app architecture (MVVM) & SwiftUI
 
-\- Dev Tools: Git & GitHub, Intellij, VS Code, Postman, Xcode, npm, CLI, XAMPP, Figma
+\- Dev Tools: Git & GitHub, Intellij, VS Code, Postman, Xcode, npm, maven, CLI, XAMPP, Figma
 
 \- Other Knowledge: MVC architecture, API integration, QR code generation, M-Pesa STK & webhook logic
 
 🛠️ Notable Work:
 
-Event Ticketing System with live M-Pesa validation, QR codes, Google Sheets as DB
+\- Event Ticketing System with live M-Pesa validation, QR codes, Google Sheets as DB
 
-Budgeting & Expense Tracker App (WIP) using Swift + MVVM architecture
+\- Budgeting & Expense Tracker App using Swift (Storyboard) + MVVM architecture (unfortunately lost my project)
 
-Collaborative Java OOP Project: multi-class architecture, UML diagrams, Git-based workflow
+\- Collaborative Java OOP Project: multi-class architecture, UML diagrams, Git-based workflow
+
+\- Collaborative (School) Flea Market Project using React
 
 🔭 Current Focus:
 
-Deepening expertise in Java & Python for backend systems and data processing
+\- Deepening expertise in Java & Python for backend systems and data processing
 
-Mastering SwiftUI and iOS development workflows
+\- Mastering SwiftUI and iOS development workflows
 
-Building production-ready full-stack apps with custom payment and admin panels
+\- Building production-ready full-stack apps with custom payment and admin panels
 
-Enhancing my knowledge in DSA, version control, and project deployment
+\- Enhancing my knowledge in DSA, version control, and project deployment
 
 🤝 Open to:
 
-Technical collaborations, hackathons, or group software builds
+\- Technical collaborations, hackathons, or group software builds
 
-Mentorship, feedback, and discussions about software architecture or dev best practices
+\- Mentorship, feedback, and discussions about software architecture or dev best practices
 
-Exploring tools like Next.js, Firebase, Docker, or TypeScript soon
+\- Exploring tools like Next.js, Angular.js, Laravel, Firebase, Docker, or TypeScript soon
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [ephy.macharia.mbuu@gmail.com](mailto:ephy.macharia.mbuu@gmail.com)
-* 🧠  I'm learning SwiftUI, refining frontend skills in React, exploring backend using Node.js + Express
+* 🧠  I'm learning SwiftUI, refining frontend skills in React, exploring backend using Node.js + Express & learning PHP
 * 🤝  I'm open to collaborating on technical collaborations, open source projects, community-driven solutions, student-led tech initiatives, hackathons, or group software builds
 
 ### Skills
@@ -63,7 +65,7 @@ Exploring tools like Next.js, Firebase, Docker, or TypeScript soon
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ephym6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="undefined" title="undefined" /> </picture> </a> <a href="https://www.linkedin.com/in/ephy-macharia-a1328430b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="undefined" title="undefined" /> </picture> </a></p>
+<p align="left"> <a href="https://www.dev.to/ephym6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="undefined" title="undefined" /> </picture> </a> <a href="https://www.github.com/ephym6" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="undefined" title="undefined" /> </picture> </a> <a href="https://www.linkedin.com/in/ephy-macharia-a1328430b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="undefined" title="undefined" /> </picture> </a></p>
 
 ### Badges
 
